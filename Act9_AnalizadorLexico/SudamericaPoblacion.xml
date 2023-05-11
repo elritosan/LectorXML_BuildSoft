@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sudamerica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<country coid="Paraguay">
+		<Females>3580888</Females>
+		<Males>3463751</Males>
+	</country>
+	<country coid="Suriname">
+		<Females>292255</Females>
+		<Males>289108</Males>
+	</country>
+	<country coid="Guyana">
+		<Females>393271</Females>
+		<Males>389504</Males>
+	</country>
+	<country coid="Bolivia">
+		<Females>5779611</Females>
+		<Males>5733491</Males>
+	</country>
+	<country coid="Ecuador">
+		<Females>8690487</Females>
+		<Males>8683170</Males>
+	</country>
+	<country coid="Perú">
+		<Females>16148241</Females>
+		<Males>16362221</Males>
+	</country>
+	<country coid="French Guiana">
+		<Females>143766</Females>
+		<Males>147057</Males>
+	</country>
+	<country coid="Chile">
+		<Females>9341774</Females>
+		<Males>9610261</Males>
+	</country>
+	<country coid="Venezuela">
+		<Females>14045228</Females>
+		<Males>14470601</Males>
+	</country>
+	<country coid="Brazil">
+		<Females>103733160</Females>
+		<Males>107316359</Males>
+	</country>
+	<country coid="Colombia">
+		<Females>24713193</Females>
+		<Males>25626250</Males>
+	</country>
+	<country coid="Argentina">
+		<Females>21841415</Females>
+		<Males>22939260</Males>
+	</country>
+	<country coid="Uruguay">
+		<Females>1671889</Females>
+		<Males>1789842</Males>
+	</country>
+</sudamerica>
